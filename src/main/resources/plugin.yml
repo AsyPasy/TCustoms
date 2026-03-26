@@ -1,4 +1,6 @@
 name: OddBoardPlugin
-version: 1.0
+version: '1.0.0'
 main: com.example.oddboard.OddBoardPlugin
-api-version: 1.20
+api-version: '1.20'
+authors: [ YourName ]
+description: Adds the Odd Board item with ability GUI.
